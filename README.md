@@ -20,19 +20,25 @@ A Python-based Snake and Ladder game built using Tkinter featuring interactive g
 * Data Structures & Algorithms
 * OOP
 
+## Screenshots
+
+### Game Board
+
+![Game Board](screenshots/board.png)
+
+### Optimal Path Visualization
+
+![Optimal Path](screenshots/optimal-path.png)
+
+### Winner Screen
+
+![Winner](screenshots/winner.png)
+
 ## How to Run
 
 ```bash
-python snake_ladder.py
+python snake_and_ladder.py
 ```
-
-## Concepts Implemented
-
-* Graph Traversal
-* Breadth First Search (BFS)
-* GUI Development
-* Game Logic Design
-* Object-Oriented Programming
 
 ## Author
 
